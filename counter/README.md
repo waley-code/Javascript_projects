@@ -10,4 +10,4 @@ Technologies used include;
     - CSS
     - Javascript
 
-### Adeosun Oyewale Oluwapelumi
+### Adeosun Oyewale Oluwapelumi.
